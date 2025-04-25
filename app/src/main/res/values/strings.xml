@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Turafoglalo</string>
+    <string name="name">e-mail</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">e-mail</string>
+    <string name="password_again">Jelszó Újra</string>
+    <string name="phone_number">Tel.</string>
+    <string name="address">Cím</string>
+    <string name="account_type">Fiók Típusa</string>
+    <string name="hiker">Túrázó</string>
+    <string name="manager">Szervező</string>
+    <string name="cancel">Mégsem</string>
+</resources>
